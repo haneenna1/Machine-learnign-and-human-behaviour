@@ -1,1 +1,1 @@
-First workshop in Machine learning in human beahviour -
+CS236608 - MAchine Learning And Human Behaviour
